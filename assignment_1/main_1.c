@@ -9,6 +9,7 @@ int main (){
         Satirlarinizi eklerken baskasinin kodunu bozmamaniz gerekmektedir.
     */
    printf("ibrahim sengun");
+      printf("serna taskin");
 
     return 0;
 }
