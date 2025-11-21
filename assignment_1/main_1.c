@@ -10,5 +10,6 @@ int main (){
     */
    printf("ibrahim sengun");
 
+   printf("fatma bas");
     return 0;
 }
