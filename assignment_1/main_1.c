@@ -15,6 +15,7 @@ int main (){
       printf("emine özge uygur");
    printf("Efsun Ruzgar Bayik");
 
+   printf("fatma bas");
    printf("Umay ERYİLMAZ");
 
    printf("Sefa Sahin OZ");
