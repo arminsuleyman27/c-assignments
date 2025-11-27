@@ -8,6 +8,7 @@ int main (){
     */
    printf("esra nur sabah");
    printf("ibrahim sengun");
+   printf("Samet deger");
    printf("DİYAR BARAN");
    printf("eylul aydogan
    printf("serdar kacmaz");
