@@ -9,6 +9,8 @@ int main (){
    printf("helin kemik");
    printf("esra nur sabah");
    printf("ibrahim sengun");
+      printf("emine özge uygur");
+      
    printf("Samet deger");
    printf("DİYAR BARAN");
    printf("eylul aydogan
