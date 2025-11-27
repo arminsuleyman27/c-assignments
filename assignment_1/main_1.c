@@ -6,6 +6,7 @@ int main (){
     /* Odevlerini yukleyen ogrenciler bu dosyada guzel formatli sekilde adini, soyadini yazdiracak.
         Satirlarinizi eklerken baskasinin kodunu bozmamaniz gerekmektedir.
     */
+   printf("helin kemik");
    printf("esra nur sabah");
    printf("ibrahim sengun");
    printf("Samet deger");
